@@ -1,12 +1,22 @@
 <?php
 // array de nomes
-$nomes = ["João", "Maria", "Pedro", "Ana", "Carlos"];
+$nomes = ["Dua Lipa", "Jão", "Pedro", "Taylor", "Ariana"];
+
+$qtde = count($nomes);
+
+//echo $nomes[0];
+for ($i=0; $i < $qtde; $i++){
+    echo $nomes[$i] . "</br>";
+
+};
+
+
 
 //vê o array usando foreach
-foreach ($nomes as $nome) {
-    echo "Nome: " . $nome . "</br>";
-}
+//foreach ($nomes as $nome) {
+//   echo "Nome: " . $nome . "</br>";
+//}
 
-//total de nomes
-echo "</br>Total de nomes: " . count($nomes);
+//conta os nomes
+//echo "</br>Total de nomes: " . count($nomes);
 ?>
