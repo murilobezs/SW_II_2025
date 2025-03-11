@@ -11,8 +11,8 @@ function geraNumeros()
 // uso
 $numerosAleatorios = geraNumeros();
 echo "Array com números aleatórios: ";
-// print_r() é uma função do PHP que mostra o conteúdo de uma variável de forma legível
-// quando usada com arrays, mostra todos os elementos e seus índices
+// print_r() é uma função do PHP que mostra o conteúdo de uma variável
+// quando usa com arrays, mostra todos os elementos e seus índices
 // formato de saída: Array ( [0] => valor1 [1] => valor2 ... )
 print_r($numerosAleatorios);
 
