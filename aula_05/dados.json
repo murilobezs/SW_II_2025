@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Murilo Bezerra",
+            "email": "murisud15@gmail.com",
+            "idade": 17
+        },
+        {
+            "id": 2,
+            "nome": "João Vitor Romania",
+            "email": "jaoromania@gmail.com",
+            "idade": 30
+        },
+        {
+            "id": 3,
+            "nome": "Marina Sena",
+            "email": "marisena@gmail.com",
+            "idade": 26
+        }
+    ]
+}
