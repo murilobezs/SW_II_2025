@@ -1,0 +1,19 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Murilo Bezerra",
+            "email": "murisud15@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "João Romania",
+            "email": "jaoromania@gmail.com"
+        },
+        {
+            "id": 3,
+            "nome": "Pedro Tófani",
+            "email": "pedro@email.com"
+        }
+    ]
+}
